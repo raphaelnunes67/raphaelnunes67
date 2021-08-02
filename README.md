@@ -16,7 +16,8 @@
     <img align="center" alt="Rapha-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Rapha-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
     <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rapha-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+    <img align="center" alt="Rapha-Android" height="25" width="25" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400">
+    <img align="center" alt="Rapha-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
  
  ##
@@ -25,10 +26,11 @@
     <a href="https://www.linkedin.com/in/raphaelnunes67/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/rphlnns/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raphaelnunes67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/raphaelnunes67" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://twitter.com/raphaelnunes67" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <br><br>
+<div align="center">
+ <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+</div>
 
 <!--
 **raphaelnunes67/raphaelnunes67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
