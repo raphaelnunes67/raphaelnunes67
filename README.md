@@ -1,5 +1,5 @@
 <div class="title" align="center">
-  <h1> Hi there, I'm Raphael Nunes 👋😎 </h1>
+  <h2> Hi there, I'm Raphael Nunes 👋😎 </h2>
 </div>
 
 <br>
@@ -8,8 +8,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelnunes67&layout=compact&langs_count=7&theme=merko"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphaelnunes67&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
-  
-<div class="tecnology" align="center" style="display: inline_block"><br>
+<br>
+<div class="tecnology" align="center" style="display: inline_block">
     <img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" alt="Rapha-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"> 
     <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@
     <img align="center" alt="Rapha-Android" height="25" width="25" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400">
   <img align="center" alt="Rapha-Android" height="35" width="35" src="https://playwright.dev/img/playwright-logo.svg">
 </div>
- 
+  
  ##
   
   <div class="social-media" align="center"><br>
