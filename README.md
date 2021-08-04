@@ -1,4 +1,6 @@
-### Hi there, I'm Raphael Nunes 👋😎
+<div class="title" align="center">
+  <h1> Hi there, I'm Raphael Nunes 👋😎 </h1>
+</div>
 
 <br>
 <div class="info">
