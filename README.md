@@ -1,14 +1,15 @@
 <div class="title" align="center">
   <h2> Hi there, I'm Raphael Nunes 👋😎 </h2>
 </div>
-
+<!-- 
 <br>
 <div class="info" align="center">
   <a href="https://github.com/raphaelnunes67">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelnunes67&layout=compact&langs_count=7&theme=merko"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphaelnunes67&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
+</div> 
 <br>
+  -->
 <div class="tecnology" align="center" style="display: inline_block">
     <img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" alt="Rapha-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"> 
