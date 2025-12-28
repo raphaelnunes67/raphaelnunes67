@@ -20,7 +20,9 @@
     <img align="center" alt="Rapha-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
     <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rapha-Android" height="25" width="25" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400">
-  <img align="center" alt="Rapha-Android" height="35" width="35" src="https://playwright.dev/img/playwright-logo.svg">
+    <img align="center" alt="Rapha-Playwright" height="35" width="35" src="https://playwright.dev/img/playwright-logo.svg">
+    <img align="center" alt="Rapha-CSharp" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" >
+          
 </div>
   
  ##
